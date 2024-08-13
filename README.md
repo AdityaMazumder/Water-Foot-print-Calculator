@@ -2,21 +2,28 @@
 
 
 
-WaterVation Project 
+<u>WaterVation Project :</u>
 
 Watervation is a web based personal water footprint calculator . It takes into account all the water consuming activities perfomed by a person during the course of a week and calculates 
 persons weekly water footprint .
 
-Features
+<u>Features :</u>
 
 Easy to Navigate: User-friendly interface designed for a smooth experience.
+
 Various Categories: Covers multiple aspects of daily life, including Bathroom, Kitchen, Laundry, and more, to provide a comprehensive water usage assessment.
+
 Actionable Insights and Tips: Offers personalized insights and practical tips to help users reduce their water footprint and adopt more sustainable practices.
+
 Spreads awareness about water conservation techniques
+
 Minimalistic no-nonsense user interface
+
 Provides simple straight-forward instructions
 
-Technology Stack
+User Instruction : We request you to please click on the next button after you complete your answer , pressing enter will not move the website forward . 
+
+<u>Technology Stack :</u>
 
 Frontend: HTML, CSS, 
 
@@ -29,11 +36,11 @@ Try to Get the latest files by forking the latest distibution of the code. Moreo
 Fork the repository.Create a new branch (git checkout -b feature-branch). Make your changes.Commit your changes (git commit -m 'Add some feature').Push to the branch (git push origin feature-branch). Open a pull request.
 
 
-License
+License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Conclusion
+Conclusion :
 
 We encourage you to regularly use the Water Footprint Calculator to monitor your progress and continue reducing your water usage. Every small change makes a big difference in conserving our planet's water resources.
 
