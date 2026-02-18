@@ -12,6 +12,7 @@ persons weekly water footprint .
 Easy to Navigate: User-friendly interface designed for a smooth experience.
 
 Various Categories: Covers multiple aspects of daily life, including Bathroom, Kitchen, Laundry, and more, to provide a comprehensive water usage assessment.
+There are three types of water footprints:1) Greeen water footprint 2) Blue water footprint 3) Grey water footprint
 
 Actionable Insights and Tips: Offers personalized insights and practical tips to help users reduce their water footprint and adopt more sustainable practices.
 
